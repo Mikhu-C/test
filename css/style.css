@@ -1,0 +1,31 @@
+body {
+   color: rgb(32, 92, 40);
+   margin: 0 px 0 0 0;
+}
+
+.red {
+   color: red;
+}
+
+a {
+   color: blueviolet;
+}
+
+.green {
+   color: greenyellow;
+}
+
+.brown{
+   border: 2px solid purple;
+}
+.none{
+   display: none;
+}
+.text-block{
+   display:block;
+   background-color: rgb(160, 160, 160);
+   height: 20px;
+   padding: 3px;
+   margin: 3px 0 3px 0;
+   color: black;
+}
